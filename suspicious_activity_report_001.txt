@@ -1,0 +1,35 @@
+INTERNAL SUSPICIOUS ACTIVITY REPORT (DRAFT)
+Reference: SAR-2026-0143
+Filed by: Compliance Monitoring Desk
+
+Account Holder: Entity referred to internally as "Account Z"
+Account Type: Current account, opened 4 months ago
+
+Summary of Observed Activity:
+
+Over the past six weeks, Account Z received eleven incoming transfers, each ranging
+between INR 9,000 and INR 9,800. This pattern is consistent with structuring, where
+transactions are deliberately kept just under standard reporting thresholds.
+
+The account was opened in the name of a private limited entity that public records
+show was incorporated only five months ago, with no identifiable business address,
+website, or GST filings. Documentation provided at onboarding describes it loosely
+as a "trading and consultancy" shell company with no clear operational footprint.
+
+In three instances, funds credited to the account were transferred out in full to
+two different third-party accounts within 24 hours of receipt, indicating rapid
+movement of funds inconsistent with normal business cash flow cycles.
+
+Two of the outbound transfers were routed to accounts associated with a jurisdiction
+that has been flagged by the compliance team as high-risk due to weak AML
+enforcement history.
+
+The account has also shown unusually high cash-intensive activity for an entity
+that claims to operate as a consultancy, which typically would not involve frequent
+cash handling.
+
+Recommended Action: Escalate to senior compliance officer for further review and
+consider filing a formal Suspicious Transaction Report (STR) with the relevant
+regulatory authority pending additional documentation from the account holder.
+
+Status: Under Review

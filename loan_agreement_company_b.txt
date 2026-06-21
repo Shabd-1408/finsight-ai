@@ -1,0 +1,27 @@
+LOAN AGREEMENT SUMMARY
+Borrower: Company B Textiles Pvt Ltd
+Lender: Regional Commercial Bank
+
+Loan Amount Sanctioned: INR 85,00,000
+Tenure: 60 months
+Interest Rate: 11.25% per annum, floating
+Purpose of Loan: Purchase of weaving machinery and working capital support
+
+Collateral: Hypothecation of machinery, personal guarantee of two directors
+
+Repayment Schedule: Equated Monthly Installments (EMI) of approximately INR 1,86,000
+beginning the month following disbursement.
+
+Covenants:
+- Borrower must maintain a current ratio of at least 1.1 throughout the loan tenure.
+- Borrower must submit audited financial statements annually within 90 days of fiscal
+  year end.
+- Any change in shareholding above 25% requires prior written consent of the lender.
+
+Disbursement History:
+First tranche of INR 40,00,000 disbursed on 14 Feb 2026.
+Second tranche of INR 45,00,000 disbursed on 02 Apr 2026.
+
+Relationship Manager Notes: Borrower has an existing current account with the bank
+held for 6 years with no prior default history. Site visit conducted on 20 Jan 2026
+confirmed operational machinery and active production floor.

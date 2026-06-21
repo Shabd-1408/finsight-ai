@@ -1,0 +1,29 @@
+COMPANY A PRIVATE LIMITED
+ANNUAL FINANCIAL STATEMENT - FY 2025-26
+
+Balance Sheet Summary (in INR Lakhs)
+
+Current Assets: 480
+Current Liabilities: 240
+Cash and Cash Equivalents: 120
+Inventory: 150
+Accounts Receivable: 210
+
+Total Debt: 600
+Total Equity: 350
+Total Assets: 1,200
+
+Quick Assets (Current Assets minus Inventory): 330
+
+Revenue: 2,400
+Net Profit: 180
+Operating Expenses: 1,950
+
+Notes:
+Company A is a mid-sized manufacturing supplier that has applied for a working capital
+loan extension of INR 150 Lakhs. The company has maintained consistent revenue growth
+of approximately 12% year-on-year over the past three fiscal years. Management has
+disclosed no pending litigation or regulatory action as of this filing.
+
+Auditor remarks: Standard unqualified opinion. No material weaknesses identified in
+internal controls during this audit cycle.

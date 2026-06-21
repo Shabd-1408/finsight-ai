@@ -1,0 +1,27 @@
+COMPANY C QUARTERLY PERFORMANCE REPORT
+Quarter: Q1 FY 2026-27 (Apr-Jun 2026)
+Sector: FMCG Distribution
+
+Key Figures (in INR Lakhs):
+
+Current Assets: 310
+Current Liabilities: 410
+Inventory: 95
+Total Debt: 720
+Total Equity: 280
+Revenue this quarter: 640
+Net Profit this quarter: 22
+
+Quick Assets (Current Assets minus Inventory): 215
+
+Management Commentary:
+Revenue grew modestly this quarter due to increased distribution volume in tier-2
+cities, though margins were compressed by rising logistics costs. The company is
+currently negotiating a renewal of its credit facility with its primary lender and
+has requested a temporary relaxation of its current ratio covenant, which it does
+not expect to fully meet this quarter given elevated short-term liabilities tied to
+festive-season inventory build-up.
+
+No related-party transactions were reported this quarter. Internal audit flagged no
+new concerns. The company's debt servicing has remained current with no missed
+payments in the trailing twelve months.
