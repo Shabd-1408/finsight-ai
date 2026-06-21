@@ -14,8 +14,28 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from src.agent import run_agent  # noqa: E402  (import after load_dotenv on purpose)
+from src.vectorstore import VectorStore  # noqa: E402
+from src.ingest import load_and_chunk_documents  # noqa: E402
 
 st.set_page_config(page_title="FinSight AI", page_icon="\U0001F4CA", layout="wide")
+
+
+@st.cache_resource(show_spinner="Setting up knowledge base (first load only)...")
+def ensure_knowledge_base():
+    """
+    Deploying app.py alone (e.g. on Streamlit Community Cloud) never runs the
+    separate `python -m src.ingest` step, so the vector store would otherwise
+    start empty. This populates it automatically on first run, and is
+    cached so it only happens once per running app instance.
+    """
+    store = VectorStore()
+    if store.count() == 0:
+        chunks = load_and_chunk_documents()
+        store.add_documents(chunks)
+    return store
+
+
+ensure_knowledge_base()
 
 st.title("FinSight AI")
 st.caption("Agentic RAG assistant for financial document intelligence & compliance screening")
@@ -88,4 +108,5 @@ if query:
         "role": "assistant",
         "content": result["answer"],
         "trace": result["trace"],
+    })
     })
