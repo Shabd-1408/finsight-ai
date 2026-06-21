@@ -109,4 +109,3 @@ if query:
         "content": result["answer"],
         "trace": result["trace"],
     })
-    })
